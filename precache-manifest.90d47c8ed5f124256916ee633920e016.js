@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/contactmanager/static/js/runtime~main.72aa8290.js"
   },
   {
-    "revision": "af0086967b597326c352",
-    "url": "/contactmanager/static/js/main.af008696.chunk.js"
+    "revision": "60de172c7da6b9b2146e",
+    "url": "/contactmanager/static/js/main.60de172c.chunk.js"
   },
   {
     "revision": "db3ed80d8952fe0fa17e",
     "url": "/contactmanager/static/js/1.db3ed80d.chunk.js"
   },
   {
-    "revision": "af0086967b597326c352",
+    "revision": "60de172c7da6b9b2146e",
     "url": "/contactmanager/static/css/main.84cd0853.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/contactmanager/static/css/1.6bf25aa1.chunk.css"
   },
   {
-    "revision": "35c6ffc377d0ec827b01407b00d30da4",
+    "revision": "c117d5a8916bfb622a16deea31e8bf6b",
     "url": "/contactmanager/index.html"
   }
 ];
